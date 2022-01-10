@@ -1,0 +1,196 @@
+--------BEGIN at 2022/01/01 週六 15:36:59.27 
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59725   140
+    1    14    63
+[1] "precision, recall of fraud: 0.310345 , 0.818182"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            415            10  0.310345 0.818182        4565
+Warning message:
+In write.table(out_data, file = out_f, append = T, row.names = F,  :
+  appending column names to file
+[1] "DONE"
+Time difference of 18.38102 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59853    12
+    1    20    57
+[1] "precision, recall of fraud: 0.826087 , 0.74026"
+  NumberOfSample Amplification Precision  Recall NumberOfRow
+1            415           100  0.826087 0.74026       41915
+[1] "DONE"
+Time difference of 21.39132 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59850    15
+    1    19    58
+[1] "precision, recall of fraud: 0.794521 , 0.753247"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            415           200  0.794521 0.753247       83415
+Error in file(file, ifelse(append, "a", "w")) : 無法開啟連結
+Calls: write.table -> file
+此外: Warning message:
+In file(file, ifelse(append, "a", "w")) :
+  無法開啟檔案 'output/performance.csv' ：Permission denied
+停止執行
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59835    30
+    1    17    60
+[1] "precision, recall of fraud: 0.666667 , 0.779221"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            100           100  0.666667 0.779221       10100
+[1] "DONE"
+Time difference of 18.74514 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59837    28
+    1    19    58
+[1] "precision, recall of fraud: 0.674419 , 0.753247"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            200           100  0.674419 0.753247       20200
+Error in file(file, ifelse(append, "a", "w")) : 無法開啟連結
+Calls: write.table -> file
+此外: Warning message:
+In file(file, ifelse(append, "a", "w")) :
+  無法開啟檔案 'output/performance.csv' ：Permission denied
+停止執行
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59827    38
+    1    18    59
+[1] "precision, recall of fraud: 0.608247 , 0.766234"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            250           100  0.608247 0.766234       25250
+[1] "DONE"
+Time difference of 19.65354 secs
+^C
+停止執行
+--------BEGIN at 2022/01/01 週六 15:41:49.49 
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59725   140
+    1    14    63
+[1] "precision, recall of fraud: 0.310345 , 0.818182"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            415            10  0.310345 0.818182        4565
+[1] "DONE"
+Time difference of 18.62986 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59853    12
+    1    20    57
+[1] "precision, recall of fraud: 0.826087 , 0.74026"
+  NumberOfSample Amplification Precision  Recall NumberOfRow
+1            415           100  0.826087 0.74026       41915
+[1] "DONE"
+Time difference of 22.39314 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59850    15
+    1    19    58
+[1] "precision, recall of fraud: 0.794521 , 0.753247"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            415           200  0.794521 0.753247       83415
+[1] "DONE"
+Time difference of 27.46306 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59859     6
+    1    23    54
+[1] "precision, recall of fraud: 0.9 , 0.701299"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            415           300       0.9 0.701299      124915
+[1] "DONE"
+Time difference of 32.767 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59835    30
+    1    17    60
+[1] "precision, recall of fraud: 0.666667 , 0.779221"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            100           100  0.666667 0.779221       10100
+[1] "DONE"
+Time difference of 19.04192 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59837    28
+    1    19    58
+[1] "precision, recall of fraud: 0.674419 , 0.753247"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            200           100  0.674419 0.753247       20200
+[1] "DONE"
+Time difference of 19.70688 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59827    38
+    1    18    59
+[1] "precision, recall of fraud: 0.608247 , 0.766234"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            250           100  0.608247 0.766234       25250
+[1] "DONE"
+Time difference of 19.8037 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59840    25
+    1    19    58
+[1] "precision, recall of fraud: 0.698795 , 0.753247"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            300           100  0.698795 0.753247       30300
+[1] "DONE"
+Time difference of 20.86038 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59821    44
+    1    17    60
+[1] "precision, recall of fraud: 0.576923 , 0.779221"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            100           200  0.576923 0.779221       20100
+[1] "DONE"
+Time difference of 19.60381 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59854    11
+    1    20    57
+[1] "precision, recall of fraud: 0.838235 , 0.74026"
+  NumberOfSample Amplification Precision  Recall NumberOfRow
+1            200           200  0.838235 0.74026       40200
+[1] "DONE"
+Time difference of 21.17484 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59845    20
+    1    20    57
+[1] "precision, recall of fraud: 0.74026 , 0.74026"
+  NumberOfSample Amplification Precision  Recall NumberOfRow
+1            250           200   0.74026 0.74026       50250
+[1] "DONE"
+Time difference of 22.08722 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59845    20
+    1    19    58
+[1] "precision, recall of fraud: 0.74359 , 0.753247"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            300           200   0.74359 0.753247       60300
+[1] "DONE"
+Time difference of 23.3347 secs
+END at 2022/01/01 週六 15:46:18.39-------- 

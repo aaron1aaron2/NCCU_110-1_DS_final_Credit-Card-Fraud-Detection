@@ -1,0 +1,105 @@
+--------BEGIN at 2022/01/02 ถgค้ 23:14:22.34 
+Loading required package: rpart
+     pred
+truth     0     1
+    0 56282  3583
+    1     8    69
+[1] "precision, recall of fraud: 0.018894 , 0.896104"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            415             1  0.018894 0.896104         830
+Warning message:
+In write.table(out_data, file = out_f, append = T, row.names = F,  :
+  appending column names to file
+[1] "DONE"
+Time difference of 18.75239 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59824    41
+    1    18    59
+[1] "precision, recall of fraud: 0.59 , 0.766234"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            415            20      0.59 0.766234        8715
+[1] "DONE"
+Time difference of 19.15484 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59826    39
+    1    18    59
+[1] "precision, recall of fraud: 0.602041 , 0.766234"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            415            30  0.602041 0.766234       12865
+[1] "DONE"
+Time difference of 19.05484 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59826    39
+    1    18    59
+[1] "precision, recall of fraud: 0.602041 , 0.766234"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            415            50  0.602041 0.766234       21165
+[1] "DONE"
+Time difference of 19.65557 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 56824  3041
+    1     8    69
+[1] "precision, recall of fraud: 0.022186 , 0.896104"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            200             1  0.022186 0.896104         400
+[1] "DONE"
+Time difference of 18.5102 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59658   207
+    1    14    63
+[1] "precision, recall of fraud: 0.233333 , 0.818182"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            200            10  0.233333 0.818182        2200
+[1] "DONE"
+Time difference of 18.82562 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59836    29
+    1    19    58
+[1] "precision, recall of fraud: 0.666667 , 0.753247"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            200            50  0.666667 0.753247       10200
+[1] "DONE"
+Time difference of 19.10666 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 55341  4524
+    1     8    69
+[1] "precision, recall of fraud: 0.015023 , 0.896104"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            320             1  0.015023 0.896104         640
+[1] "DONE"
+Time difference of 18.58705 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59725   140
+    1    14    63
+[1] "precision, recall of fraud: 0.310345 , 0.818182"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            320            10  0.310345 0.818182        3520
+[1] "DONE"
+Time difference of 18.56892 secs
+Loading required package: rpart
+     pred
+truth     0     1
+    0 59817    48
+    1    16    61
+[1] "precision, recall of fraud: 0.559633 , 0.792208"
+  NumberOfSample Amplification Precision   Recall NumberOfRow
+1            320            50  0.559633 0.792208       16320
+[1] "DONE"
+Time difference of 19.44406 secs
+END at 2022/01/02 ถgค้ 23:17:33.77-------- 

@@ -1,0 +1,179 @@
+--------BEGIN at 2022/01/02 秅ら 23:23:32.56 
+Loading required package: rpart
+[1] "V14"
+     pred
+truth     0     1
+    0 59864     1
+    1    62    15
+[1] "precision, recall of fraud: 0.9375 , 0.194805"
+  Method Range TargetFeature Precision   Recall NumberOfRow
+1    IQR  -3~3           V14    0.9375 0.194805      221381
+[1] "DONE"
+Time difference of 47.13978 secs
+Loading required package: rpart
+[1] "V14"
+     pred
+truth     0     1
+    0 59864     1
+    1    62    15
+[1] "precision, recall of fraud: 0.9375 , 0.194805"
+  Method Range TargetFeature Precision   Recall NumberOfRow
+1    std  -3~3           V14    0.9375 0.194805      221972
+[1] "DONE"
+Time difference of 47.76225 secs
+Loading required package: rpart
+[1] "V28"
+     pred
+truth     0     1
+    0 59839    26
+    1    28    49
+[1] "precision, recall of fraud: 0.653333 , 0.636364"
+  Method Range TargetFeature Precision   Recall NumberOfRow
+1    IQR  -3~3           V28  0.653333 0.636364      211251
+[1] "DONE"
+Time difference of 45.73873 secs
+Loading required package: rpart
+[1] "V28"
+     pred
+truth     0     1
+    0 59841    24
+    1    23    54
+[1] "precision, recall of fraud: 0.692308 , 0.701299"
+  Method Range TargetFeature Precision   Recall NumberOfRow
+1    std  -3~3           V28  0.692308 0.701299      222256
+[1] "DONE"
+Time difference of 45.03469 secs
+Loading required package: rpart
+[1] "V3"
+     pred
+truth     0     1
+    0 59860     5
+    1    24    53
+[1] "precision, recall of fraud: 0.913793 , 0.688312"
+  Method Range TargetFeature Precision   Recall NumberOfRow
+1    IQR  -3~3            V3  0.913793 0.688312      223739
+[1] "DONE"
+Time difference of 48.76208 secs
+Loading required package: rpart
+[1] "V3"
+     pred
+truth     0     1
+    0 59841    24
+    1    21    56
+[1] "precision, recall of fraud: 0.7 , 0.727273"
+  Method Range TargetFeature Precision   Recall NumberOfRow
+1    std  -3~3            V3       0.7 0.727273      223156
+[1] "DONE"
+Time difference of 51.19289 secs
+END at 2022/01/02 秅ら 23:28:19.66-------- 
+--------BEGIN at 2022/01/02 秅ら 23:44:02.68 
+Loading required package: rpart
+ [1] "V1"     "V2"     "V3"     "V4"     "V5"     "V6"     "V7"     "V8"    
+ [9] "V9"     "V10"    "V11"    "V12"    "V13"    "V14"    "V15"    "V16"   
+[17] "V17"    "V18"    "V19"    "V20"    "V21"    "V22"    "V23"    "V24"   
+[25] "V25"    "V26"    "V27"    "V28"    "Amount"
+     pred
+truth     0     1
+    0 59860     5
+    1    23    54
+[1] "precision, recall of fraud: 0.915254 , 0.701299"
+  Method Range
+1    IQR  -3~3
+                                                                                                  TargetFeature
+1 V1+V2+V3+V4+V5+V6+V7+V8+V9+V10+V11+V12+V13+V14+V15+V16+V17+V18+V19+V20+V21+V22+V23+V24+V25+V26+V27+V28+Amount
+  Precision   Recall NumberOfRow
+1  0.915254 0.701299      203732
+[1] "DONE"
+Time difference of 37.26798 secs
+Loading required package: rpart
+ [1] "V1"     "V2"     "V3"     "V4"     "V5"     "V6"     "V7"     "V8"    
+ [9] "V9"     "V10"    "V11"    "V12"    "V13"    "V14"    "V15"    "V16"   
+[17] "V17"    "V18"    "V19"    "V20"    "V21"    "V22"    "V23"    "V24"   
+[25] "V25"    "V26"    "V27"    "V28"    "Amount"
+     pred
+truth     0     1
+    0 59862     3
+    1    27    50
+[1] "precision, recall of fraud: 0.943396 , 0.649351"
+  Method Range
+1    std  -3~3
+                                                                                                  TargetFeature
+1 V1+V2+V3+V4+V5+V6+V7+V8+V9+V10+V11+V12+V13+V14+V15+V16+V17+V18+V19+V20+V21+V22+V23+V24+V25+V26+V27+V28+Amount
+  Precision   Recall NumberOfRow
+1  0.943396 0.649351      221555
+[1] "DONE"
+Time difference of 41.23925 secs
+Loading required package: rpart
+[1] "Amount"
+     pred
+truth     0     1
+    0 59856     9
+    1    21    56
+[1] "precision, recall of fraud: 0.861538 , 0.727273"
+  Method Range TargetFeature Precision   Recall NumberOfRow
+1    IQR  -3~3        Amount  0.861538 0.727273      203732
+[1] "DONE"
+Time difference of 40.40246 secs
+'3' ぃ琌ず场┪场㏑磅︽祘Α┪уΩ郎
+END at 2022/01/02 秅ら 23:46:02.13-------- 
+'END' ぃ琌ず场┪场㏑磅︽祘Α┪уΩ郎
+--------BEGIN at 2022/01/02 秅ら 23:48:30.93 
+Loading required package: rpart
+ [1] "V1"     "V2"     "V3"     "V4"     "V5"     "V6"     "V7"     "V8"    
+ [9] "V9"     "V10"    "V11"    "V12"    "V13"    "V14"    "V15"    "V16"   
+[17] "V17"    "V18"    "V19"    "V20"    "V21"    "V22"    "V23"    "V24"   
+[25] "V25"    "V26"    "V27"    "V28"    "Amount"
+     pred
+truth     0     1
+    0 59860     5
+    1    23    54
+[1] "precision, recall of fraud: 0.915254 , 0.701299"
+  Method Range
+1    IQR  -3~3
+                                                                                                  TargetFeature
+1 V1+V2+V3+V4+V5+V6+V7+V8+V9+V10+V11+V12+V13+V14+V15+V16+V17+V18+V19+V20+V21+V22+V23+V24+V25+V26+V27+V28+Amount
+  Precision   Recall NumberOfRow
+1  0.915254 0.701299      203732
+[1] "DONE"
+Time difference of 36.16909 secs
+Loading required package: rpart
+ [1] "V1"     "V2"     "V3"     "V4"     "V5"     "V6"     "V7"     "V8"    
+ [9] "V9"     "V10"    "V11"    "V12"    "V13"    "V14"    "V15"    "V16"   
+[17] "V17"    "V18"    "V19"    "V20"    "V21"    "V22"    "V23"    "V24"   
+[25] "V25"    "V26"    "V27"    "V28"    "Amount"
+     pred
+truth     0     1
+    0 59862     3
+    1    27    50
+[1] "precision, recall of fraud: 0.943396 , 0.649351"
+  Method Range
+1    std  -3~3
+                                                                                                  TargetFeature
+1 V1+V2+V3+V4+V5+V6+V7+V8+V9+V10+V11+V12+V13+V14+V15+V16+V17+V18+V19+V20+V21+V22+V23+V24+V25+V26+V27+V28+Amount
+  Precision   Recall NumberOfRow
+1  0.943396 0.649351      221555
+[1] "DONE"
+Time difference of 41.13288 secs
+Loading required package: rpart
+[1] "Amount"
+     pred
+truth     0     1
+    0 59856     9
+    1    21    56
+[1] "precision, recall of fraud: 0.861538 , 0.727273"
+  Method Range TargetFeature Precision   Recall NumberOfRow
+1    IQR  -3~3        Amount  0.861538 0.727273      203732
+[1] "DONE"
+Time difference of 40.12065 secs
+Loading required package: rpart
+[1] "Amount"
+     pred
+truth     0     1
+    0 59856     9
+    1    21    56
+[1] "precision, recall of fraud: 0.861538 , 0.727273"
+  Method Range TargetFeature Precision   Recall NumberOfRow
+1    std  -3~3        Amount  0.861538 0.727273      221555
+[1] "DONE"
+Time difference of 49.71498 secs
+END at 2022/01/02 秅ら 23:51:18.79-------- 

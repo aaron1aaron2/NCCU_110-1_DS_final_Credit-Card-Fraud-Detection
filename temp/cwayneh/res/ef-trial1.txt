@@ -1,0 +1,231 @@
+[1] "filter 1 feature(s) left rows:221863"
+[1] "num of fraud:293"
+     pred
+truth     0     1
+    0 59863     2
+    1    25    52
+[1] "precision, recall:0.962962962962963,0.675324675324675"
+--------------------------
+[1] "filter 2 feature(s) left rows:221383"
+[1] "num of fraud:291"
+     pred
+truth     0     1
+    0 59863     2
+    1    25    52
+[1] "precision, recall:0.962962962962963,0.675324675324675"
+--------------------------
+[1] "filter 3 feature(s) left rows:222964"
+[1] "num of fraud:170"
+     pred
+truth     0     1
+    0 59853    12
+    1    22    55
+[1] "precision, recall:0.82089552238806,0.714285714285714"
+--------------------------
+[1] "filter 4 feature(s) left rows:222750"
+[1] "num of fraud:207"
+     pred
+truth     0     1
+    0 59864     1
+    1    27    50
+[1] "precision, recall:0.980392156862745,0.649350649350649"
+--------------------------
+[1] "filter 5 feature(s) left rows:222388"
+[1] "num of fraud:276"
+     pred
+truth     0     1
+    0 59856     9
+    1    30    47
+[1] "precision, recall:0.839285714285714,0.61038961038961"
+--------------------------
+[1] "filter 6 feature(s) left rows:219372"
+[1] "num of fraud:376"
+     pred
+truth     0     1
+    0 59857     8
+    1    24    53
+[1] "precision, recall:0.868852459016393,0.688311688311688"
+--------------------------
+[1] "filter 7 feature(s) left rows:222083"
+[1] "num of fraud:208"
+     pred
+truth     0     1
+    0 59840    25
+    1    33    44
+[1] "precision, recall:0.63768115942029,0.571428571428571"
+--------------------------
+[1] "filter 8 feature(s) left rows:221555"
+[1] "num of fraud:310"
+     pred
+truth     0     1
+    0 59862     3
+    1    26    51
+[1] "precision, recall:0.944444444444444,0.662337662337662"
+--------------------------
+[1] "filter 9 feature(s) left rows:223000"
+[1] "num of fraud:272"
+     pred
+truth     0     1
+    0 59845    20
+    1    24    53
+[1] "precision, recall:0.726027397260274,0.688311688311688"
+--------------------------
+[1] "filter 10 feature(s) left rows:222003"
+[1] "num of fraud:131"
+     pred
+truth     0     1
+    0 59853    12
+    1    24    53
+[1] "precision, recall:0.815384615384615,0.688311688311688"
+--------------------------
+[1] "filter 11 feature(s) left rows:224294"
+[1] "num of fraud:158"
+     pred
+truth     0     1
+    0 59857     8
+    1    23    54
+[1] "precision, recall:0.870967741935484,0.701298701298701"
+--------------------------
+[1] "filter 12 feature(s) left rows:221956"
+[1] "num of fraud:101"
+     pred
+truth     0     1
+    0 59861     4
+    1    27    50
+[1] "precision, recall:0.925925925925926,0.649350649350649"
+--------------------------
+[1] "filter 13 feature(s) left rows:224013"
+[1] "num of fraud:413"
+     pred
+truth     0     1
+    0 59852    13
+    1    20    57
+[1] "precision, recall:0.814285714285714,0.74025974025974"
+--------------------------
+[1] "filter 14 feature(s) left rows:221934"
+[1] "num of fraud:66"
+     pred
+truth     0     1
+    0 59864     1
+    1    62    15
+[1] "precision, recall:0.9375,0.194805194805195"
+--------------------------
+[1] "filter 15 feature(s) left rows:223738"
+[1] "num of fraud:407"
+     pred
+truth     0     1
+    0 59854    11
+    1    20    57
+[1] "precision, recall:0.838235294117647,0.74025974025974"
+--------------------------
+[1] "filter 16 feature(s) left rows:223104"
+[1] "num of fraud:145"
+     pred
+truth     0     1
+    0 59859     6
+    1    24    53
+[1] "precision, recall:0.898305084745763,0.688311688311688"
+--------------------------
+[1] "filter 17 feature(s) left rows:222700"
+[1] "num of fraud:90"
+     pred
+truth     0     1
+    0 59857     8
+    1    37    40
+[1] "precision, recall:0.833333333333333,0.519480519480519"
+--------------------------
+[1] "filter 18 feature(s) left rows:223544"
+[1] "num of fraud:216"
+     pred
+truth     0     1
+    0 59862     3
+    1    25    52
+[1] "precision, recall:0.945454545454545,0.675324675324675"
+--------------------------
+[1] "filter 19 feature(s) left rows:222495"
+[1] "num of fraud:347"
+     pred
+truth     0     1
+    0 59857     8
+    1    20    57
+[1] "precision, recall:0.876923076923077,0.74025974025974"
+--------------------------
+[1] "filter 20 feature(s) left rows:221038"
+[1] "num of fraud:386"
+     pred
+truth     0     1
+    0 59859     6
+    1    27    50
+[1] "precision, recall:0.892857142857143,0.649350649350649"
+--------------------------
+[1] "filter 21 feature(s) left rows:221595"
+[1] "num of fraud:338"
+     pred
+truth     0     1
+    0 59861     4
+    1    26    51
+[1] "precision, recall:0.927272727272727,0.662337662337662"
+--------------------------
+[1] "filter 22 feature(s) left rows:223771"
+[1] "num of fraud:388"
+     pred
+truth     0     1
+    0 59859     6
+    1    23    54
+[1] "precision, recall:0.9,0.701298701298701"
+--------------------------
+[1] "filter 23 feature(s) left rows:222074"
+[1] "num of fraud:391"
+     pred
+truth     0     1
+    0 59858     7
+    1    21    56
+[1] "precision, recall:0.888888888888889,0.727272727272727"
+--------------------------
+[1] "filter 24 feature(s) left rows:224122"
+[1] "num of fraud:413"
+     pred
+truth     0     1
+    0 59856     9
+    1    21    56
+[1] "precision, recall:0.861538461538462,0.727272727272727"
+--------------------------
+[1] "filter 25 feature(s) left rows:222559"
+[1] "num of fraud:378"
+     pred
+truth     0     1
+    0 59861     4
+    1    24    53
+[1] "precision, recall:0.929824561403509,0.688311688311688"
+--------------------------
+[1] "filter 26 feature(s) left rows:224035"
+[1] "num of fraud:414"
+     pred
+truth     0     1
+    0 59854    11
+    1    20    57
+[1] "precision, recall:0.838235294117647,0.74025974025974"
+--------------------------
+[1] "filter 27 feature(s) left rows:220988"
+[1] "num of fraud:286"
+     pred
+truth     0     1
+    0 59862     3
+    1    24    53
+[1] "precision, recall:0.946428571428571,0.688311688311688"
+--------------------------
+[1] "filter 28 feature(s) left rows:222232"
+[1] "num of fraud:376"
+     pred
+truth     0     1
+    0 59841    24
+    1    23    54
+[1] "precision, recall:0.692307692307692,0.701298701298701"
+--------------------------
+[1] "filter 29 feature(s) left rows:220996"
+[1] "num of fraud:403"
+     pred
+truth     0     1
+    0 59857     8
+    1    28    49
+[1] "precision, recall:0.859649122807018,0.636363636363636"
